@@ -1316,7 +1316,8 @@ break
 	    break
 	       case 'attp': case 'ttp': {
            if (!text) throw `Example : ${prefix + command} text`
-           await hisoka.sendMedia(m.chat, `https://xteam.xyz/${command}?file&text=${text}`, 'hisoka', 'morou', m, {asSticker: true})
+           await hisoka.sendMedia(m.chat, `https://xteam.xyz/${command}?file&text=${text}`, 'hisoka', 'morou', m, {asSticker: true})
+
          }
          break
 	       case 'smeme': case 'stickmeme': case 'stikmeme': case 'stickermeme': case 'stikermeme': {
@@ -2979,7 +2980,7 @@ let capt = `⭔ Title: ${judul}
 │
 └───────⭓
 
-┌──⭓ *Database Menu*
+┌──⭓ *Database*
 │
 │⭔ ${prefix}setcmd
 │⭔ ${prefix}listcmd
@@ -2992,7 +2993,7 @@ let capt = `⭔ Title: ${judul}
 │
 └───────⭓
 
-┌──⭓ *Anonymous Menu*
+┌──⭓ *Anonymous*
 │
 │⭔ ${prefix}anonymous
 │⭔ ${prefix}start
@@ -3011,7 +3012,7 @@ let capt = `⭔ Title: ${judul}
 │
 └───────⭓
 
-┌──⭓ *Voice Changer*
+┌──⭓ *Filtros de voz*
 │
 │⭔ ${prefix}bass
 │⭔ ${prefix}blown
@@ -3027,7 +3028,7 @@ let capt = `⭔ Title: ${judul}
 │
 └───────⭓
 
-┌──⭓ *Owner Menu*
+┌──⭓ *Owner*
 │
 │⭔ ${prefix}react [emoji]
 │⭔ ${prefix}chat [option]
