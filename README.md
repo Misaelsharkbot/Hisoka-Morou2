@@ -8,6 +8,9 @@ Best Regards. Hisoka
 # Hisoka-Morou
 Script WhatsApp Bot Multi Device
 
+### `—◉ ✨ ACTIVAR EN HEROKU ✨`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Misaelsharkbot/Hisoka-Morou2/)
+
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
